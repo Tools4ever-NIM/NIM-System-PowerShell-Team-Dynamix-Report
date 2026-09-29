@@ -1,4 +1,7 @@
 # Team Dynamix - Report
+
+Read the [TeamDynamix integration documentation](https://docs.nimsuite.com/en/integrations/teamdynamix) for connector details and related guides.
+
 <img src="https://github.com/Tools4ever-NIM/NIM-System-Powershell-Team-Dynamix-Report/assets/24281600/80cfb5ca-517d-4f55-90ef-08eb74281eeb" width="256px" />
 
 
